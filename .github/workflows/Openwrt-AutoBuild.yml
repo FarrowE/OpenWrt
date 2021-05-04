@@ -12,7 +12,7 @@ on:
   repository_dispatch:
 
 env:
-  REPO_TOKEN: ${{ secrets.REPO_TOKEN }}
+  REPO_TOKEN: ${{ secrets.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 }}
   PPPOE_USERNAME: ${{ secrets.PPPOE_USERNAME }}
   PPPOE_PASSWD: ${{ secrets.PPPOE_PASSWD }}
   SCKEY: ${{ secrets.SCKEY }}
